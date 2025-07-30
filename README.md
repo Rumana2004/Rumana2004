@@ -9,7 +9,6 @@
 - 🔧 **I'm currently working on:** "Hybrid Quantum-Classical Attention enhanced VAE for graph representation learning"
 - 📚 **I'm currently learning:** Advanced Machine Learning, Full-Stack Web Development and Problem-Solving with Data Structures & Algorithms 🚀
 - 🤝 **I'm looking to collaborate on:** "Hybrid Quantum-Classical Attention enhanced VAE for graph representation learning" and NammaCityFix - From Complaints to Completion
-- ❓ **I'm looking for help with:** 
 - 💬 **Ask me about:**  AI/ML concepts, web development with HTML, CSS, JS & frameworks, and my tech journey with team collaboration at IEEE WIE ⚡🤖🌐
 - 📬 **How to reach me:** rufidarumana3@gmail.com
 - 🌸 **Pronouns:** She/Her
